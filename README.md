@@ -36,4 +36,4 @@ This project explores FIFA 2018 player data using Python and data visualization 
 The project uses FIFA 2018 player data. The dataset file must be provided separately unless included in this repository.
 
 ## Author
-Python and Data Analytics Learner
+varun sharma
